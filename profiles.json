@@ -1,0 +1,11 @@
+{
+    "Default": {
+        "username": "Steve",
+        "version": "1.21.4",
+        "memory": 2048,
+        "java_path": "",
+        "jvm_args": "",
+        "loader": null,
+        "last_seen": 0
+    }
+}
